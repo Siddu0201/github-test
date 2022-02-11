@@ -3,3 +3,4 @@ Line by git account.
 
 New line added by developer
 New line by design.
+Another line by design.
