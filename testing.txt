@@ -2,3 +2,4 @@ This is testing file.
 Line by git account.
 
 New line added by developer
+New line by design.
